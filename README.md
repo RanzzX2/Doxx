@@ -1,2 +1,2 @@
 # Doxx
-This is repository for testing how far.
+This is a test for seeing how far "it" can go
